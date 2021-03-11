@@ -1,4 +1,5 @@
-# ORF 1, 1280x720
+#EXTM3U
+#EXTINF:-1 tvg-name="ORF 1" group-title="ORF" tvg-logo="https://der.orf.at/unternehmen/aktuell/orf1_design106~_v-body__16__9_-8356d68febb302a69d0d38655ca9b89002ae9eee.jpg",ORF 1
 https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
 # ORF 2, 1280x720
 https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
