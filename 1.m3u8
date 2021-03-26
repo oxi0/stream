@@ -9,11 +9,3 @@ https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 #EXTINF:-1 tvg-name="Servus TV" group-title="AT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png",Servus TV
 https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
-#EXTINF:-1 tvg-name="SRF 1" group-title="CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png",Servus TV
-https://srgssruni1ch-lh.akamaihd.net/i/enc1uni_ch@190951/master.m3u8
-
-#EXTINF:-1 tvg-name="SRF 2" group-title="CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png",Servus TV
-https://srgssruni2ch-lh.akamaihd.net/i/enc2uni_ch@191041/master.m3u8
-
-#EXTINF:-1 tvg-name="SRF Info" group-title="CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/ServusTV_Logo.png",Servus TV
-https://srgssruni3ch-lh.akamaihd.net/i/enc3uni_ch@191073/master.m3u8
